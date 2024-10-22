@@ -1,0 +1,6 @@
+@Blogfelhasznalok_HostAddress = http://localhost:5119
+
+GET {{Blogfelhasznalok_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
